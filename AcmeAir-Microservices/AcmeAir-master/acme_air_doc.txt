@@ -1,0 +1,11 @@
+customer service:
+
+store, update, retrieve customer data
+
+booking service:
+
+The primary task of the booking service is to store, update, and retrieve booking data.
+
+flight service:
+
+The primary task of the flight service is to retrieve flight route data.
